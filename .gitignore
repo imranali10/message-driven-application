@@ -1,0 +1,11 @@
+# Ignore IDE files
+.idea/
+target/
+.mvn/
+*.log
+*.tmp
+.idea/
+target/
+.mvn/
+*.log
+*.tmp
